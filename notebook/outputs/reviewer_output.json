@@ -1,13 +1,14 @@
 {
   "grade": 3,
-  "rationale": "The research provides a basic overview of AAPL's current market position and dividend history. However, it lacks depth in fundamental analysis and forward-looking insights. The recommendation is cautious but doesn't fully justify the 'HOLD' stance based on the limited information presented.",
+  "rationale": "The draft provides a basic overview of AAPL's stock performance and dividends, but lacks depth in several key areas. It fails to include specific financial ratios, competitive analysis, and a more detailed discussion of risks and opportunities. The recommendation lacks concrete price targets or entry/exit points, which would be valuable for investors.",
   "plan": [
-    "Conduct a thorough fundamental analysis including P/E ratio, EPS growth, and other key metrics",
-    "Analyze AAPL's product pipeline and potential market impacts",
-    "Compare AAPL's performance to industry peers and broader market indices",
-    "Investigate any upcoming product launches or strategic initiatives",
-    "Provide a more nuanced price target range based on different scenarios",
-    "Include a risk assessment section highlighting potential challenges for AAPL"
+    "Optimizer: Use the 'Fetch a fundamentals snapshot from Yahoo Finance' tool to gather key financial ratios (P/E, P/B, ROE) and include them in the analysis.",
+    "Optimizer: Analyze the recent OHLCV data from the 'Fetch recent OHLCV prices from Yahoo Finance' tool to identify specific support and resistance levels.",
+    "Optimizer: Research and include a brief competitive analysis comparing AAPL to at least two major competitors in the tech sector.",
+    "Optimizer: Use the 'Fetch earnings calendar / next events' tool to check for any upcoming events that could impact the stock price.",
+    "Optimizer: Provide a more detailed risk assessment, including potential challenges in the smartphone market and global economic factors.",
+    "Optimizer: Set specific price targets for entry, exit, and stop-loss points based on the technical analysis of recent price data.",
+    "Optimizer: Expand on the dividend analysis by calculating the dividend yield and comparing it to industry averages."
   ],
-  "lesson": "AAPL research requires in-depth fundamental analysis and forward-looking insights beyond basic market data and dividend history to justify investment recommendations."
+  "lesson": "Always include comprehensive financial analysis, competitive positioning, and specific price targets to provide a well-rounded and actionable investment recommendation."
 }
