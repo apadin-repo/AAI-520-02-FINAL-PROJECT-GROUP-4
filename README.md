@@ -3,10 +3,10 @@
 
 ### University of San Diego — Applied Artificial Intelligence (AAI-520)
 **Team Members:**  
-- **Ali Mohtat**  
 - **Alexander J. Padin**  
 - **Thomas Geraci**
-
+- **Ali Mohtat**
+  
 ---
 
 ## 📘 Project Overview
